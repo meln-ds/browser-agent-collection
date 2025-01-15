@@ -24,10 +24,10 @@ controller = Controller()
 
 
 async def main():
-	task = f"""Navigate to linkedin.com and create a post. 
+	task = f"""Navigate to https://www.linkedin.com/feed/ and create a post. 
 	Here are the specific steps:
 	
-	1. Go to linkedin.com. Look for the text input field at the top of the page that says "Start a post".
+	1. Navigate to https://www.linkedin.com/feed/. Look for the text input field at the top of the page that says "Start a post".
 	2. Click the input field.
 	3. Write a post that is a Bold Statement about the future of work with AI agents. The context for the post: Emphasize that AI agents 
 	are not replacing humans but amplifying their potential through collaboration.

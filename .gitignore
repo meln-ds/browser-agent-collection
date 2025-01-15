@@ -6,4 +6,10 @@
 
 # Other common files to ignore
 node_modules/
-.DS_Store 
+.DS_Store
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc 
